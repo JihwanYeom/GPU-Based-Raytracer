@@ -1,4 +1,4 @@
-
+<img width="1204" height="632" alt="Image" src="https://github.com/user-attachments/assets/265e62be-0941-46c4-beb9-0b9ddbf84460" />
 
 
 # GPU-Based Raytracer
