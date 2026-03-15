@@ -1,5 +1,4 @@
-<img width="1204" height="632" alt="Image" src="https://github.com/user-attachments/assets/265e62be-0941-46c4-beb9-0b9ddbf84460" />
-
+<img width="2460" height="1312" alt="Image" src="https://github.com/user-attachments/assets/ab6c5ebb-f2f3-4b86-b500-155cb3c734fb" />
 
 # GPU-Based Raytracer
 
@@ -38,6 +37,8 @@ Fragment Shader에서 카메라 위치로부터 Ray를 생성하여 Scene과의 
 
 ## 핵심 수식
 Ray = P = O + tD
+
+
 Sphere = |P - C|² = r²
 
 위 두 식을 결합하여 이차방정식을 풀어 **Ray–Sphere 교차 여부를 판별**한다.
